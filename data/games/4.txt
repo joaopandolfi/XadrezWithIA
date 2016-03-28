@@ -1,0 +1,73 @@
+13/03/2015 02:21:05
+B
+nnnndnndnd]
+0
+N
+ehuheuehuehuehe
+0
+N
+P T 0 0 V
+P C 1 0 V
+P B 2 0 V
+P D 3 0 V
+P R 4 0 V
+P B 5 0 V
+P C 6 0 V
+P T 7 0 V
+P P 0 1 V
+P P 1 1 V
+P P 2 1 V
+P P 3 1 V
+P P 4 1 V
+P P 5 1 V
+P P 6 1 V
+P P 7 1 V
+B P 0 6 V
+B P 1 6 V
+B P 2 6 V
+B P 3 6 V
+B P 4 6 V
+B P 5 6 V
+B P 6 6 V
+B P 7 6 V
+B T 0 7 V
+B C 1 7 V
+B B 2 7 V
+B D 3 7 V
+B R 4 7 V
+B B 5 7 V
+B C 6 7 V
+B T 7 7 V
+P T 0 0 M
+P C 1 0 M
+P B 2 0 M
+P D 3 0 M
+P R 4 0 M
+P B 5 0 M
+P C 6 0 M
+P T 7 0 M
+P P 0 1 M
+P P 1 1 M
+P P 2 1 M
+P P 3 1 M
+P P 4 1 M
+P P 5 1 M
+P P 6 1 M
+P P 7 1 M
+B P 0 6 M
+B P 1 6 M
+B P 2 6 M
+B P 3 6 M
+B P 4 6 M
+B P 5 6 M
+B P 6 6 M
+B P 7 6 M
+B T 0 7 M
+B C 1 7 M
+B B 2 7 M
+B D 3 7 M
+B R 4 7 M
+B B 5 7 M
+B C 6 7 M
+B T 7 7 M
+
